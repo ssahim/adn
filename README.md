@@ -10,7 +10,9 @@ The objective of this course is to introduce network routing and related protoco
 		[Lecture Note](Lecture/04/l/lectureNote.pdf)
 
 		**Assignment**
+
 		Implement RIPv2  on the topology mentioned in lecture slide 3.
 
-		** Deadline: **
+		** Deadline**
+		
 		05/11/2017
