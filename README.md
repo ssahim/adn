@@ -8,7 +8,7 @@ The objective of this course is to introduce network routing and related protoco
 	A Routing Algorithm is a method for determining the routing of packets in a node. For each node of a network, the algorithm determines a routing table, which in each destination, matches an output line. The algorithm should lead to a consistent routing, that is to say without loop. This means that you should not route a packet a node to another node that could send back the package.
 
 
-	[Lecture Note](Lectures/adn/Lectures/04/l/lectureNote.pdf)
+	[Lecture Note](Lectures/04/l/lectureNote.pdf)
 
 	**Assignment**
 
